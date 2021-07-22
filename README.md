@@ -13,6 +13,8 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 ## 2.  MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/75383758/126709008-7cc3c0aa-4594-429c-9130-12a403628d29.png)
+
 ## 3.  EXPLICACION DEL PROCEDIMIENTO 
 
 3.1 **REQUISITOS PREVIOS**
@@ -106,7 +108,9 @@ Robbins, A., & Miller, W. (2010). Análisis de circuitos eléctricos. Teoría
 
 Teorema de Thevenin – Análisis de circuitos eléctricos. dademuchconnection. (2021). Retrieved 22 July 2021, from https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/.
 
+TEOREMA DE THEVENIN EXPLICADO PARA QUE LO ENTIENDAS. Teorema. (2019). Retrieved 22 July 2021, from https://www.teorema.top/teorema-de-thevenin/.
 
+Log in. Lucid.app. (2021). Retrieved 22 July 2021, from https://lucid.app/lucidchart/82bb8b91-37f7-4e89-ac48-8b5c426937b9/edit?beaconFlowId=FD1DDAC0FB0015DD&page=0_0#.
 
 
 
