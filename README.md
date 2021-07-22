@@ -8,8 +8,13 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 **Objetivo general** 
 
+- Determinar de forma teórica y de forma experimental en un simulador para armar circuitos eléctricos los valores de voltaje y corriente de un circuito resistivo en el cual existen 2 fuentes de voltaje mediante el uso del teorema de Thévenin transformando un circuito complejo en uno más simple.
+
 **Objetivos específicos**
 
+- Diferenciar los valores calculados de los valores medidos y así ver el porcentaje de error que se puede evidenciar al usar el Teorema de Thévenin en la resolución de circuitos eléctricos.
+
+- Realizar la simulación del circuito eléctrico en una aplicación virtual y observar el funcionamiento del circuito sin aplicar el teorema de Thévenin y de igual forma observar su funcionamiento al momento en el que se aplcia el Teorema de Thévenin.
 
 ## 2.  MARCO TEORICO
 
