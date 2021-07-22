@@ -102,6 +102,10 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ## 6.  BIBLIOGRAFÍA
 
+Robbins, A., & Miller, W. (2010). Análisis de circuitos eléctricos. Teoría y práctica [recurso electrónico]. Cengage Learning Editores, S.A. de C.V.
+
+Teorema de Thevenin – Análisis de circuitos eléctricos. dademuchconnection. (2021). Retrieved 22 July 2021, from https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/.
+
 
 
 
