@@ -51,6 +51,7 @@ del circuito para el equivalente de Thévenin, con las fuentes de alimentación 
 | 1 | Resistor de 330 Ω |
 | 1 | Resistor de 100 Ω |
 | 1 | Resistor de 1 kΩ |
+| 1 | Potenciometro de precisón de 1kΩ |
 | 1 | Protoboard |
 
 3.4 **PROCEDIMIENTO**
@@ -85,21 +86,26 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
  
  |               |  **CALCULADO** | **MEDIDO** |
  |     :---:     |     :---:      |    :---:   |  
- |   **VTH (V)** |                |    5.06    |
- |  **RTH (Ω)**  |                |     299    |
+ |   **VTH (V)** |                |            |
+ |  **RTH (Ω)**  |                |            |
  
  Tabla 5.2 Comprobación del teorema de Thévenin 
  
  | **PARÁMETRO ELÉCTRICO** |   **Circuito Original**  |               |  **Circuito Equivalente de Thévelin**  |                 |
  |        :---:            |          :---:           |     :---:     |             :---:                      |      :---:      |
  |                         |        Calculado         |    Medido     |              Calculado                 |      Medido     |
- |       Voltaje (V)       |           3.89           |               |                                        |                 |
- |     Corriente (mA)      |           3.89           |               |                                        |                 |
+ |       Voltaje (V)       |                          |               |                                        |                 |
+ |     Corriente (mA)      |                          |               |                                        |                 |
  
 ## 4.  VIDEO
 
 ## 5.  CONCLUCIONES 
 
+- El teorema de Thévenin nos ayuda a que en un ciruito lineal complejo en el cual se encuentran dos fuentes de voltaje, lo podemos sustituir con una fuente de voltaje equivalente de Thévenin (V_Th) y usar de la misma forma una eresistencia equivalente de Thévenin (R_Th).
+
+- Al momento en el que creamos un circuito equivalente mas pequeño y simple de uno más grande y complejo, se nos peermite calcular de forma rápida el valor de voltajes, la corriente o hasta la potencia de un circuito una vez que se conecta una carga.
+
+- El cálculo de los valores de voltaje y corriente en el circuito presentado en el laboratorio se lo pudo realizar con facilidad gracias a este teorema ya que para calcular el valor de una resistencia debemos realizar un corto circuito en la fuente de voltaje y para una fuente4 de corriente se debe reemplazar por un circuito abierto. 
 
 ## 6.  BIBLIOGRAFÍA
 
