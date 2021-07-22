@@ -51,7 +51,6 @@ del circuito para el equivalente de Thévenin, con las fuentes de alimentación 
 | 1 | Resistor de 330 Ω |
 | 1 | Resistor de 100 Ω |
 | 1 | Resistor de 1 kΩ |
-| 1 | Potenciometro de precisón de 1kΩ |
 | 1 | Protoboard |
 
 3.4 **PROCEDIMIENTO**
