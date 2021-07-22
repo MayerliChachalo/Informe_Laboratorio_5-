@@ -60,13 +60,21 @@ del circuito para el equivalente de Thévenin, con las fuentes de alimentación 
 
 ### Circuito armado en Tinkercad
 
+![image](https://user-images.githubusercontent.com/85126275/126688725-c5c186c0-01f1-42d1-b095-706e9c9dccfa.png)
+
 3.4.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+
+![image](https://user-images.githubusercontent.com/85126275/126689065-e15a7ea9-25b0-4631-a636-af1b3041fd07.png)
 
 3.4.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
 medido en la tabla 5.1.
 
+![image](https://user-images.githubusercontent.com/85126275/126689200-d40cdb4c-b82c-417c-bbe6-fb8113253a41.png)
+
 3.4.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
 abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/85126275/126689314-40deeaf1-87d3-4096-b757-b2a6b0dd8074.png)
 
 3.4.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
