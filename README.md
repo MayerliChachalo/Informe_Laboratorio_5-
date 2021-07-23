@@ -129,6 +129,8 @@ Implementación de R_5
  
 ## 4.  VIDEO
 
+https://youtu.be/z4PntRIQhXA
+
 ## 5.  CONCLUCIONES 
 
 - El teorema de Thévenin nos ayuda a que en un ciruito lineal complejo en el cual se encuentran dos fuentes de voltaje, lo podemos sustituir con una fuente de voltaje equivalente de Thévenin (V_Th) y usar de la misma forma una eresistencia equivalente de Thévenin (R_Th).
