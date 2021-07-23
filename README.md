@@ -85,21 +85,47 @@ abierto resultante mida la resistencia equivalente. Anote el valor medido en la 
 3.4.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
+3.5 Procedimiento Analítico
+
+![image](https://user-images.githubusercontent.com/85209614/126737500-e0479d35-f6b1-494e-9354-8f50814cc2b0.png)
+
+![image](https://user-images.githubusercontent.com/85209614/126737587-7405c42e-a05f-41cf-893a-7a407d288411.png)
+
+![image](https://user-images.githubusercontent.com/85209614/126737537-57b2425a-2368-491e-9bee-31391cbf4fef.png)
+
+![image](https://user-images.githubusercontent.com/85209614/126737609-0df16302-e8d3-40ee-b6fd-156426f54815.png)
+
+![image](https://user-images.githubusercontent.com/85209614/126738124-69491e59-7417-43d2-b8f9-41a8a1462479.png)
+
+Circuito Thévenin
+
+![image](https://user-images.githubusercontent.com/85209614/126738201-1570c09a-f0e7-43b8-bc87-a3504adaa66e.png)
+
+Implementación de R_5
+
+![image](https://user-images.githubusercontent.com/85209614/126738280-0ba749ca-98b4-418d-969d-851a7c919962.png)
+
+![image](https://user-images.githubusercontent.com/85209614/126738894-cadd0f50-4436-42f3-a7b7-b26d8cafb70e.png)
+
 
  Tabla 5.1 Valores del circuito Equivalente de Thévenin
  
  |               |  **CALCULADO** | **MEDIDO** |
  |     :---:     |     :---:      |    :---:   |  
- |   **VTH (V)** |                |    5.06    |
- |  **RTH (Ω)**  |                |    299     |
+ |   **VTH (V)** |     5.056      |    5.06    |
+ |  **RTH (Ω)**  |     298.85     |    299     |
  
  Tabla 5.2 Comprobación del teorema de Thévenin 
  
  | **PARÁMETRO ELÉCTRICO** |   **Circuito Original**  |               |  **Circuito Equivalente de Thévelin**  |                 |
  |        :---:            |          :---:           |     :---:     |             :---:                      |      :---:      |
  |                         |        Calculado         |    Medido     |              Calculado                 |      Medido     |
- |       Voltaje (V)       |                          |     3.89      |                                        |                 |
- |     Corriente (mA)      |                          |    3.89       |                                        |                 |
+ |       Voltaje (V)       |          3.89            |    3.89       |                3.89                    |       3.89      |
+ |     Corriente (mA)      |          3.89            |    3.89       |                3.89                    |       3.89      |
+ 
+ 3.6 Cálculo del Error
+ 
+ ![image](https://user-images.githubusercontent.com/85209614/126739711-0354e4a9-0fb7-45f1-a9cc-3f1c61782198.png)
  
 ## 4.  VIDEO
 
