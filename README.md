@@ -85,6 +85,8 @@ abierto resultante mida la resistencia equivalente. Anote el valor medido en la 
 3.4.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
+![image](https://user-images.githubusercontent.com/75383758/126789674-c1089ea8-1ecd-4540-82fc-b9b5355fdf0e.png)
+
 3.5 Procedimiento Analítico
 
 ![image](https://user-images.githubusercontent.com/85209614/126737500-e0479d35-f6b1-494e-9354-8f50814cc2b0.png)
