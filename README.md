@@ -56,7 +56,6 @@ del circuito para el equivalente de Thévenin, con las fuentes de alimentación 
 | 1 | Resistor de 330 Ω |
 | 1 | Resistor de 100 Ω |
 | 1 | Resistor de 1 kΩ |
-| 1 | Potenciometro de precisón de 1kΩ |
 | 1 | Protoboard |
 
 3.4 **PROCEDIMIENTO**
@@ -91,16 +90,16 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
  
  |               |  **CALCULADO** | **MEDIDO** |
  |     :---:     |     :---:      |    :---:   |  
- |   **VTH (V)** |                |            |
- |  **RTH (Ω)**  |                |            |
+ |   **VTH (V)** |                |    5.06    |
+ |  **RTH (Ω)**  |                |    299     |
  
  Tabla 5.2 Comprobación del teorema de Thévenin 
  
  | **PARÁMETRO ELÉCTRICO** |   **Circuito Original**  |               |  **Circuito Equivalente de Thévelin**  |                 |
  |        :---:            |          :---:           |     :---:     |             :---:                      |      :---:      |
  |                         |        Calculado         |    Medido     |              Calculado                 |      Medido     |
- |       Voltaje (V)       |                          |               |                                        |                 |
- |     Corriente (mA)      |                          |               |                                        |                 |
+ |       Voltaje (V)       |                          |     3.89      |                                        |                 |
+ |     Corriente (mA)      |                          |    3.89       |                                        |                 |
  
 ## 4.  VIDEO
 
