@@ -2,7 +2,7 @@
 
 Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
-## **PRÁCTICA No.4 TEOREMA DE THÉVENIN**
+## **PRÁCTICA No.5 TEOREMA DE THÉVENIN**
 
 ## 1.  OBJETIVO DE LA PRÁCTICA
 
